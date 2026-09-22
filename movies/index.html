@@ -12,11 +12,15 @@
         nav a:hover { text-decoration: underline; }
     </style>
 </head>
-<nav>
-  <a href="/">Home</a>
-  <a href="/baseball/">Baseball</a>
-  <a href="/movies/">Movies</a>
-</nav>
+<div id="banner"></div>
+
+<script>
+  fetch("/banner.html")
+    .then(res => res.text())
+    .then(html => {
+      document.getElementById("banner").innerHTML = html;
+    });
+</script>
 <body>
     <h1>movie reviews</h1>
     <p>i'll watch anything with emma stone and or ryan gosling in it</p>
