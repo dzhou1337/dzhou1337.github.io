@@ -12,11 +12,15 @@
         nav a:hover { text-decoration: underline; }
     </style>
 </head>
-<nav>
-  <a href="/">Home</a>
-  <a href="/baseball/">Baseball</a>
-  <a href="/movies/">Movies</a>
-</nav>
+<div id="banner"></div>
+
+<script>
+  fetch("/banner.html")
+    .then(res => res.text())
+    .then(html => {
+      document.getElementById("banner").innerHTML = html;
+    });
+</script>
 <body>
     <h1>baseball news and thoughts</h1>
     <p>the 2026 world series will be red sox v cubs</p>
