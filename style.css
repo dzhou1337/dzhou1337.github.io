@@ -1,0 +1,56 @@
+:root {
+  --pumpkin: #d2691e;
+  --rust: #b5502a;
+  --harvest-gold: #e8a33d;
+  --deep-brown: #4a2c17;
+  --cream: #f5e6d3;
+  --forest: #5c6e3f;
+}
+
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  background-color: var(--cream);
+  color: var(--deep-brown);
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  font-family: 'Playfair Display', Georgia, serif;
+  color: var(--rust);
+}
+
+nav {
+  background: linear-gradient(to right, var(--rust), var(--pumpkin));
+  padding: 1rem;
+}
+
+nav a {
+  color: var(--cream);
+  text-decoration: none;
+  font-weight: bold;
+  margin-right: 1rem;
+}
+
+nav a:hover {
+  color: var(--harvest-gold);
+}
+
+button, .btn {
+  background-color: var(--pumpkin);
+  color: white;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover, .btn:hover {
+  background-color: var(--rust);
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
