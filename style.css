@@ -8,11 +8,13 @@
 }
 
 body {
-  font-family: Georgia, 'Times New Roman', serif;
-  background-color: var(--cream);
-  color: var(--deep-brown);
   margin: 0;
-  padding: 0;
+  min-height: 100vh;
+  background-image: url('/images/otgw clouds.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* keeps it still while scrolling */
+  background-repeat: no-repeat;
 }
 
 h1, h2, h3 {
