@@ -24,6 +24,7 @@ h1, h2, h3 {
 
 nav {
   display: flex;
+  max-width: 900px;
   flex-wrap: wrap;
   align-items: center;
   background: linear-gradient(to right, var(--rust), var(--pumpkin));
