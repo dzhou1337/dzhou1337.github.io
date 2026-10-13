@@ -1,2 +1,9 @@
 title: dookieworld
 theme: null
+collections:
+  baseball_posts:
+    output: true
+    permalink: /baseball/:name/
+  books_posts:
+    output: true
+    permalink: /books/:name/
