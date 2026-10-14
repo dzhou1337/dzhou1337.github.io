@@ -7,3 +7,20 @@ collections:
   books_posts:
     output: true
     permalink: /books/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "baseball_posts"
+    values:
+      layout: posts
+      body_class: post-page
+      main_class: post-page
+      section: dookieball
+  - scope:
+      path: ""
+      type: "books_posts"
+    values:
+      layout: posts
+      body_class: post-page
+      main_class: post-page
