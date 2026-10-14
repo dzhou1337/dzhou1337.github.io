@@ -21,6 +21,11 @@ body {
   padding: 0 20px;
   line-height: 1.6;
 }
+body.post-page {
+  max-width: 900px;
+}
+
+
 
 h1 {
   font-family: 'Playfair Display', Georgia, serif;
@@ -34,7 +39,9 @@ h2, h3 {
 
 nav {
   display: flex;
-  max-width: 900px;
+  justify-content: center;
+  max-width: 555px;
+  margin: 0 auto;
   flex-wrap: wrap;
   align-items: center;
   background: linear-gradient(to right, var(--rust), var(--pumpkin));
@@ -76,3 +83,7 @@ main {
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
+main.post-page {
+  max-width: 900px;
+}
+
