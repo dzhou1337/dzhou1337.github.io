@@ -7,6 +7,18 @@ collections:
   books_posts:
     output: true
     permalink: /books/:name/
+  food_posts:
+    output: true
+    permalink: /food/:name/
+  games_posts:
+    output: true
+    permalink: /games/:name/
+  movies_posts:
+    output: true
+    permalink: /movies/:name/
+  music_posts:
+    output: true
+    permalink: /music/:name/
 
 defaults:
   - scope:
@@ -24,3 +36,36 @@ defaults:
       layout: posts
       body_class: post-page
       main_class: post-page
+      section: dookiereads
+  - scope:
+      path: ""
+      type: "food_posts"
+    values:
+      layout: posts
+      body_class: post-page
+      main_class: post-page
+      section: dookieeats
+  - scope:
+      path: ""
+      type: "games_posts"
+    values:
+      layout: posts
+      body_class: post-page
+      main_class: post-page
+      section: dookieplays
+  - scope:
+      path: ""
+      type: "movies_posts"
+    values:
+      layout: posts
+      body_class: post-page
+      main_class: post-page
+      section: dookiefilms
+  - scope:
+      path: ""
+      type: "music_posts"
+    values:
+      layout: posts
+      body_class: post-page
+      main_class: post-page
+      section: dookiesongs
