@@ -9,7 +9,7 @@ if you disagree with any of my opinions, you are wrong. but i would like to hear
 
 send me your bad opinions at dz@dookiemoto.com
 
-if you want to get an email anytime i decide i want to send you one, sign up below
+if you want to get an email anytime i decide i want to send you one (when i post), sign up below
 
 <form
   action="https://buttondown.com/api/emails/embed-subscribe/dzhou1337"
