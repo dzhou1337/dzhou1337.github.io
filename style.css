@@ -86,4 +86,16 @@ main {
 main.post-page {
   max-width: 900px;
 }
+.gradient-text {
+  background: linear-gradient(90deg, #c64646, #cf9b2b, #2d92a8, #eb5050);
+  background-size: 300% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: gradient-shift 4s linear infinite;
+}
 
+@keyframes gradient-shift {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 300% 50%; }
+}
