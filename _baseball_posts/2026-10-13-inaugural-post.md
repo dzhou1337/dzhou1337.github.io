@@ -8,6 +8,7 @@ date: 2026-10-13
 
 ## NLCS: Los Angeles Dodgers v. Milwaukee Brewers
 
+#### 2026/10/13
 
 What's with all these poverty teams in the playoffs? Somebody get these BEGGARS out of here. You're telling me three out of the four best teams in baseball live in towns like Cleveland and Tampa Bay? When I watch playoff sports, I'm here to watch the biggest, highest-paid names from the biggest, highest-cost-of-living cities. Guys who would adorn the cover of Sports Illustrated. Guys like Aaron Judge, Bryce Harper, (the list ends here because MLB does not have enough relevance today to have household names). At least Shohei Ohtani's shambling corpse made it in (batting .100 for the last 3 months with no homers).
 
