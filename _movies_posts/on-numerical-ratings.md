@@ -14,6 +14,6 @@ Are you even expecting my number rating to be an objective measure of the qualit
 
 And what is wrong with people who are putting non-0.5 decimals in their movie scores. What the fuck do you mean you rated Boondock Saints a 6.9/10. I can understand a 6.5, you already can't decide between 10 points of precision (far too many already) for how good a movie is, so you split the difference between two of those points. But where is that 0.9 coming from? Where are you finding a 1% margin in how good Boondock Saints is that you can give it a 6.9 instead of a flat 7 or a 6.8?
 
-The answer is that the numbers are meaningless. You either like a movie or you don't, you'd either recommend a movie or you wouldn't. What are you doing with yourself that you're too busy to read a review, but you still want to know that reviewer's rating for a movie? If you cared, you'd read the review, at which point number means infinitely less than the WORDS they used to describe their experience.
+The answer is that the numbers are meaningless. You either like a movie or you don't, you'd either recommend a movie or you wouldn't. What are you doing with yourself that you're too busy to read a review, but you still want to know that reviewer's rating for a movie? If you cared, you'd read the review, at which point that number means infinitely less than the WORDS they used to describe their experience.
 
 I rate rating movies out of ten a six point seven out of ten, it has a little bit for everyone.
