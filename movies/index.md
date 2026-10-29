@@ -26,4 +26,4 @@ if you want to properly engage with my thoughts on movies, you must understand m
 {% endfor %}
 </ul>
 
-check my [letterboxd](https://letterboxd.com/dookiemoto/) for hard hitting analysis (there will be real reviews soon)
+check my [letterboxd](https://letterboxd.com/dookiemoto/) for hard hitting analysis
