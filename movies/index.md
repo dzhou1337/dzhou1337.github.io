@@ -16,4 +16,14 @@ if you want to properly engage with my thoughts on movies, you must understand m
 
 ## movie reviews
 
+<ul>
+{% for post in site.movies_posts reversed %}
+  {% unless post.featured %}
+  <li>
+    <a href="{{ post.url }}">{{ post.description }}</a> — {{ post.date | date: "%B %-d, %Y" }}
+  </li>
+  {% endunless %}
+{% endfor %}
+</ul>
+
 check my [letterboxd](https://letterboxd.com/dookiemoto/) for hard hitting analysis (there will be real reviews soon)
